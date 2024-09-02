@@ -1,1 +1,2 @@
 # CryptoClustering
+This repository contains code for analyzing and clustering cryptocurrency data based on price changes using K-Means clustering. The project involves normalizing data, performing feature reduction with Principal Component Analysis (PCA), and visualizing clusters to determine the impact of using fewer features. 
